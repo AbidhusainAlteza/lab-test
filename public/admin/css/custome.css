@@ -1,0 +1,45 @@
+.display-flex{
+    display: flex;
+}
+#frame{
+    height: 155px;
+    width: 100%;
+    border: 1px solid;
+    border-radius: 20px;
+}
+.frame2 img,.frame2{
+    height: 155px;
+    width: 100%;
+    border: 1px solid;
+    border-radius: 20px;
+}
+
+.left-col {
+    float: left;
+    width: 20%;
+}
+
+.center-col {
+    float: left;
+    width: 55%;
+}
+
+.right-col {
+    float: right;
+    width: 25%;
+}
+.btn-table-custome{
+    background-color: #ff0018 !important;
+    border-color: #ff0018 !important;
+    padding: 5px !important;
+    font-weight: 600 !important;
+    color: white !important;
+    margin-right: 5px !important;
+    border-radius: 5px !important;
+}
+.btn-table-custome span{
+    color: white !important;
+}
+.dataTables_length .form-select{
+    border-color: #f3f3f3;
+}

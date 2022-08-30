@@ -1,0 +1,8 @@
+lab_test_id,test_name,gender,age_groups,value
+1,CBC Test,MALE,All age groups,WBC-4000 to 11000 cells
+2,Dengue Ns1 Antigen Pcr Blood,FEMALE,All age groups,Dengue Viral Antigen detected in positive cases
+3,Dengue Antibodies IgG ELISA,OTHER,All age groups,The antibodies are not normally present. IgG antibodies are seen in remote infection
+4,Dengue Antibodies IgM ELISA,OTHER,All age groups,The antibodies are not normally present. IgM seen in recent infection
+5,Malarial Antigen PCR,MALE,All age groups,The antigen is detected in positive cases
+6,Typhidot Antibodies,FEMALE,All age groups,Typhidot IgM detected in recent infection
+7,Chikungunya Antibodies IgM,MALE,All age groups,The antibodies are not normally present. Presence of IgM antibodies indicates recent infection
